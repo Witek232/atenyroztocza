@@ -1,0 +1,18 @@
+{
+  "siteName": "Fundacja Ateny Roztocza",
+  "siteSubtitle": "Ośrodek Kultury i Myśli im. ks. prof. Tadeusza Guza",
+  "phone": "+48 123 456 789",
+  "email": "kontakt@atenyroztocza.pl",
+  "address": "Fundacja Ateny Roztocza\nul. Roztoczańska 1\n22-400 Zamość, Roztocze",
+  "bankAccount": "PL 12 3456 7890 1234 5678 9012 3456",
+  "socialMedia": {
+    "facebook": "https://facebook.com/atenyroztocza",
+    "youtube": "https://youtube.com/@atenyroztocza",
+    "twitter": ""
+  },
+  "openingHours": {
+    "weekdays": "Pn - Pt: 9:00 - 17:00",
+    "saturday": "Sb: 10:00 - 14:00",
+    "sunday": "Nd: Nieczynne"
+  }
+}
