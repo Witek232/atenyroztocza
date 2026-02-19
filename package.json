@@ -4,10 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
+    "dev": "tinacms dev -c \"vite\"",
+    "build": "tinacms build && vite build",
     "preview": "vite preview"
-  },
+},
   "dependencies": {
     "clsx": "2.1.1",
     "lucide-react": "^0.563.0",
@@ -26,5 +26,10 @@
     "typescript": "5.9.3",
     "vite": "7.2.4",
     "vite-plugin-singlefile": "2.3.0"
+    "lucide-react": "...",
+    "react": "...",
+    "react-dom": "..."
+    "tinacms": "^2.4.0",
+    "@tinacms/cli": "^1.6.0" 
   }
 }
